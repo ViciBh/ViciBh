@@ -9,9 +9,10 @@
 -  :computer: Actualmente estoy aprendiendo lenguajes de programación y los fundamentos del desarrollo de aplicaciones, trabajando en proyectos educativos.
 
 ### :heavy_check_mark: _Educación completa_
- | Bachiller | Maestría    |
-| ---  | ---   |
-| V. N. Karazin Kharkiv National University, Matemáticas    | V. N. Karazin Kharkiv National University, Matemáticas |
+| Nivel Educativo | Institución | Especialización |
+ | --- | --- | --- | 
+ | Bachiller | V. N. Karazin Kharkiv National University |Matemáticas |
+  | Maestría | V. N. Karazin Kharkiv National University | Matemáticas |
       
 ### :arrows_counterclockwise: _En el proceso de estudiar_ 
    - __Nivel Educativo:__ 
@@ -52,6 +53,4 @@
   -   HTML
   -   CSS
   
-### Preferencias Tecnológicas:
- - Full-stack
- - Analista de datos
+### Preferencias Tecnológicas:  Full-stack,  Analista de datos
